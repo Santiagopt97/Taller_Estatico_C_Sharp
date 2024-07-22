@@ -1,0 +1,14 @@
+D:\Desktop\Riwi\C#\Talleres\Taller_Estatico\bin\Debug\net8.0\Taller_Estatico.exe
+D:\Desktop\Riwi\C#\Talleres\Taller_Estatico\bin\Debug\net8.0\Taller_Estatico.deps.json
+D:\Desktop\Riwi\C#\Talleres\Taller_Estatico\bin\Debug\net8.0\Taller_Estatico.runtimeconfig.json
+D:\Desktop\Riwi\C#\Talleres\Taller_Estatico\bin\Debug\net8.0\Taller_Estatico.dll
+D:\Desktop\Riwi\C#\Talleres\Taller_Estatico\bin\Debug\net8.0\Taller_Estatico.pdb
+D:\Desktop\Riwi\C#\Talleres\Taller_Estatico\obj\Debug\net8.0\Taller_Estatico.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Riwi\C#\Talleres\Taller_Estatico\obj\Debug\net8.0\Taller_Estatico.AssemblyInfoInputs.cache
+D:\Desktop\Riwi\C#\Talleres\Taller_Estatico\obj\Debug\net8.0\Taller_Estatico.AssemblyInfo.cs
+D:\Desktop\Riwi\C#\Talleres\Taller_Estatico\obj\Debug\net8.0\Taller_Estatico.csproj.CoreCompileInputs.cache
+D:\Desktop\Riwi\C#\Talleres\Taller_Estatico\obj\Debug\net8.0\Taller_Estatico.dll
+D:\Desktop\Riwi\C#\Talleres\Taller_Estatico\obj\Debug\net8.0\refint\Taller_Estatico.dll
+D:\Desktop\Riwi\C#\Talleres\Taller_Estatico\obj\Debug\net8.0\Taller_Estatico.pdb
+D:\Desktop\Riwi\C#\Talleres\Taller_Estatico\obj\Debug\net8.0\Taller_Estatico.genruntimeconfig.cache
+D:\Desktop\Riwi\C#\Talleres\Taller_Estatico\obj\Debug\net8.0\ref\Taller_Estatico.dll
